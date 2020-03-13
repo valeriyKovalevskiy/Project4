@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		78509BCF241B715D009F7D4F /* PagesTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78509BCE241B715D009F7D4F /* PagesTableTableViewController.swift */; };
+		78509BD1241B7166009F7D4F /* PagesTableViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78509BD0241B7166009F7D4F /* PagesTableViewController.storyboard */; };
 		78B7368B2418D09A005FF9C9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B7368A2418D09A005FF9C9 /* AppDelegate.swift */; };
 		78B7368D2418D09A005FF9C9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B7368C2418D09A005FF9C9 /* SceneDelegate.swift */; };
 		78B7368F2418D09A005FF9C9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B7368E2418D09A005FF9C9 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		78509BCE241B715D009F7D4F /* PagesTableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagesTableTableViewController.swift; sourceTree = "<group>"; };
+		78509BD0241B7166009F7D4F /* PagesTableViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = PagesTableViewController.storyboard; sourceTree = "<group>"; };
 		78B736872418D09A005FF9C9 /* Project4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78B7368A2418D09A005FF9C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		78B7368C2418D09A005FF9C9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				78B7368A2418D09A005FF9C9 /* AppDelegate.swift */,
 				78B7368C2418D09A005FF9C9 /* SceneDelegate.swift */,
 				78B7368E2418D09A005FF9C9 /* ViewController.swift */,
+				78509BCE241B715D009F7D4F /* PagesTableTableViewController.swift */,
+				78509BD0241B7166009F7D4F /* PagesTableViewController.storyboard */,
 				78B736902418D09A005FF9C9 /* Main.storyboard */,
 				78B736932418D09C005FF9C9 /* Assets.xcassets */,
 				78B736952418D09C005FF9C9 /* LaunchScreen.storyboard */,
@@ -126,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				78B736972418D09C005FF9C9 /* LaunchScreen.storyboard in Resources */,
+				78509BD1241B7166009F7D4F /* PagesTableViewController.storyboard in Resources */,
 				78B736942418D09C005FF9C9 /* Assets.xcassets in Resources */,
 				78B736922418D09A005FF9C9 /* Main.storyboard in Resources */,
 			);
@@ -139,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				78B7368F2418D09A005FF9C9 /* ViewController.swift in Sources */,
+				78509BCF241B715D009F7D4F /* PagesTableTableViewController.swift in Sources */,
 				78B7368B2418D09A005FF9C9 /* AppDelegate.swift in Sources */,
 				78B7368D2418D09A005FF9C9 /* SceneDelegate.swift in Sources */,
 			);
